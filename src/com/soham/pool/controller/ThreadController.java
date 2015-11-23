@@ -22,5 +22,4 @@ public class ThreadController implements ThreadNotifier {
 		idList.add(id);
 		return id;
 	}
-
 }
